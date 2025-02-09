@@ -7,6 +7,7 @@ public class Main {
         Input input = new Input();
 
         //input.Q1000();
+        //input.Q1001();
 
     }
 }
